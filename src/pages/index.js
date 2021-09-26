@@ -23,7 +23,10 @@ class HomeIndex extends React.Component {
               content:
                 'Graphic Design and Website Design based in Pietermaritzburg',
             },
-            { name: 'keywords', content: 'sample, something' },
+            {
+              name: 'keywords',
+              content: 'website, graphic, website design, graphic design,',
+            },
           ]}
         ></Helmet>
 
@@ -33,42 +36,42 @@ class HomeIndex extends React.Component {
           <section id="one" className="tiles">
             <article style={{ backgroundImage: `url(${pic01})` }}>
               <header className="major">
-                <h3>Aliquam</h3>
-                <p>Ipsum dolor sit amet</p>
+                <h3>Graphic Design</h3>
+                <p>creative, responsive, fresh and tailor-made</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic02})` }}>
               <header className="major">
-                <h3>Tempus</h3>
+                <h3>Website Design</h3>
                 <p>feugiat amet tempus</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic03})` }}>
               <header className="major">
-                <h3>Magna</h3>
+                <h3>SEO</h3>
                 <p>Lorem etiam nullam</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic04})` }}>
               <header className="major">
-                <h3>Ipsum</h3>
+                <h3>Vector Art</h3>
                 <p>Nisl sed aliquam</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic05})` }}>
               <header className="major">
-                <h3>Consequat</h3>
+                <h3>T-Shirt Design</h3>
                 <p>Ipsum dolor sit amet</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic06})` }}>
               <header className="major">
-                <h3>Etiam</h3>
+                <h3>Woodwork</h3>
                 <p>Feugiat amet tempus</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
