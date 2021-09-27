@@ -7,7 +7,7 @@ import Banner from '../components/Banner'
 import pic01 from '../assets/images/3d-geometric-pieces.jpg'
 import pic02 from '../assets/images/code-testing.jpg'
 import pic03 from '../assets/images/SEO.jpg'
-import pic04 from '../assets/images/pic04.jpg'
+import pic04 from '../assets/images/Vector-Art.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
 
