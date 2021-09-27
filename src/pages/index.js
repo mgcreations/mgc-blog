@@ -8,8 +8,8 @@ import pic01 from '../assets/images/3d-geometric-pieces.jpg'
 import pic02 from '../assets/images/code-testing.jpg'
 import pic03 from '../assets/images/SEO.jpg'
 import pic04 from '../assets/images/Vector-Art.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
+import pic05 from '../assets/images/logo-animation.jpg'
+import pic06 from '../assets/images/Woodwork.jpg'
 
 class HomeIndex extends React.Component {
   render() {
@@ -58,21 +58,21 @@ class HomeIndex extends React.Component {
             <article style={{ backgroundImage: `url(${pic04})` }}>
               <header className="major">
                 <h3>Vector Art</h3>
-                <p>Nisl sed aliquam</p>
+                <p>Just for FUN!</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic05})` }}>
               <header className="major">
-                <h3>T-Shirt Design</h3>
-                <p>Ipsum dolor sit amet</p>
+                <h3>Logo Animation</h3>
+                <p>Simple, creative logo animation</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic06})` }}>
               <header className="major">
                 <h3>Woodwork</h3>
-                <p>Feugiat amet tempus</p>
+                <p>Everyone needs downtime</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
@@ -80,16 +80,14 @@ class HomeIndex extends React.Component {
           <section id="two">
             <div className="inner">
               <header className="major">
-                <h2>Massa libero</h2>
+                <h2>Make your life simpler</h2>
               </header>
               <p>
-                Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-                libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-                Pellentesque condimentum sem. In efficitur ligula tate urna.
-                Maecenas laoreet massa vel lacinia pellentesque lorem ipsum
-                dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et
-                sagittis libero. Mauris aliquet magna magna sed nunc rhoncus
-                amet pharetra et feugiat tempus.
+                You probably have much more important things to do than to
+                fiddle around with website development and design for a large
+                amount of time. Small businesses need a lot of work and
+                attention or else they are at risk of failing. So, focus on the
+                bigger issues and let MG Creations get your website online.
               </p>
               <ul className="actions">
                 <li>
